@@ -1,3 +1,6 @@
+<h1 align="center">Article Model</h1>
+<p align="center"><i>Repository for versioning and project documentation used during the series of articles on GitHub.</i></p>
+
 <p align="center" display="inline-block">
   <img src="https://img.shields.io/github/languages/top/Editora-Artigos/article-model" alt="top-language"/>
   <img src="https://img.shields.io/github/languages/count/Editora-Artigos/article-model.svg" alt="number-of-languages"/>
@@ -14,9 +17,6 @@
   <img alt="GitHub" src="https://img.shields.io/github/license/Editora-Artigos/article-model.svg">
   </p>
 </p>
-
-<h1 align="center">Article Model</h1>
-<p align="center"><i>Repository for versioning and project documentation used during the series of articles on GitHub.</i></p>
 
 Para finalizar o nosso README podemos adicionar estatísticas sobre o repositório como Linguagem mais utilizada, Número de linguagens presentes, qualidade do código e muitas outras através da ferramenta oferecida pela Codacy. Não abordaremos aqui como cadastrar seu repositório e ter acesso a estas estatísticas já que no site deles já tem uma documentação completa sobre isto. Veja como fica:
 
