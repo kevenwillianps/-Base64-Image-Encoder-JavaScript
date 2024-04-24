@@ -24,9 +24,43 @@ Para finalizar o nosso README podemos adicionar estatísticas sobre o repositór
 
 ##  About this project
 
-This is a repository used as a base to show the operation of Issues, Discussions, Wiki and other GitHub resources in addition to code versioning..
+<h1>Classe JavaScript: File</h1>
 
-The project inserted into this repository is a pre-existing template and is used as a basis for displaying statistical data about it.
+    <p>Esta documentação detalha a classe <code>File</code>, que gerencia operações relacionadas a arquivos em uma aplicação web, incluindo o carregamento, visualização, e manipulação de dados base64.</p>
+
+    <h2>Construtor</h2>
+    <p>Inicializa as propriedades da instância, preparando a classe para o gerenciamento de arquivos e interações com a interface do usuário.</p>
+
+    <h2>Métodos</h2>
+
+    <h3>copy(target)</h3>
+    <p>Permite copiar para a área de transferência o conteúdo em base64 de um arquivo especificado pelo índice <code>target</code> no array <code>_files</code>.</p>
+
+    <h3>remove(target)</h3>
+    <p>Remove um arquivo da interface e do array de controle com base no índice fornecido, limpando a interface se todos os arquivos forem removidos.</p>
+
+    <h3>progress()</h3>
+    <p>Atualiza ou cria uma barra de progresso dentro de um contêiner especificado, refletindo o progresso atual das operações com arquivos.</p>
+
+    <h3>view(data)</h3>
+    <p>Cria elementos HTML que representam visualmente um arquivo, mostrando detalhes e proporcionando interações como visualizar, copiar e deletar.</p>
+
+    <h3>getBase64(inputFile)</h3>
+    <p>Converte de forma assíncrona um arquivo para sua representação em string base64, facilitando outras manipulações ou uso dos dados.</p>
+
+    <h3>getChunk(inputString, chunkSize)</h3>
+    <p>Divide uma string em partes menores para facilitar o processamento ou envio de dados grandes.</p>
+
+    <h3>getExtension(data)</h3>
+    <p>Extrai a extensão de um arquivo, facilitando a identificação do tipo de arquivo e adequação da apresentação.</p>
+
+    <h3>getSize(data)</h3>
+    <p>Converte o tamanho de um arquivo em uma representação legível, melhorando a compreensão do usuário sobre o volume de dados.</p>
+
+    <h3>prepare(target)</h3>
+    <p>Carrega e processa arquivos selecionados, configurando a visualização inicial e manipulando os arquivos para obtenção de detalhes e conversão para base64.</p>
+
+    <p>Essa classe demonstra um excelente exemplo de encapsulamento de funcionalidades relacionadas ao gerenciamento de arquivos, mantendo o código organizado e reutilizável.</p>
 
 ### Technologies
 <p display="inline-block">
