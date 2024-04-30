@@ -18,7 +18,7 @@
   </p>
 </p>
 
-Para finalizar o nosso README podemos adicionar estatísticas sobre o repositório como Linguagem mais utilizada, Número de linguagens presentes, qualidade do código e muitas outras através da ferramenta oferecida pela Codacy. Não abordaremos aqui como cadastrar seu repositório e ter acesso a estas estatísticas já que no site deles já tem uma documentação completa sobre isto. Veja como fica:
+Aplicação web que permite aos usuários carregar imagens, visualizá-las e convertê-las para base64 usando HTML, CSS, Bootstrap e JavaScript. Ideal para facilitar a manipulação e o armazenamento de imagens em formatos codificados.
 
 ##  About this project
 
@@ -60,18 +60,18 @@ Para finalizar o nosso README podemos adicionar estatísticas sobre o repositór
 
 <p>Essa classe demonstra um excelente exemplo de encapsulamento de funcionalidades relacionadas ao gerenciamento de arquivos, mantendo o código organizado e reutilizável.</p>
 
-### Technologies
+### Tecnologias
 <p display="inline-block">
-  <img width="48" src="https://www.freeiconspng.com/uploads/c-logo-icon-18.png" alt="csharp-logo"/>
-  <img width="48" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Blazor.png" alt="blazor-logo"/>
+  <img width="48" src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png" alt="html5-logo"/>
+  <img width="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="css3-logo"/>
+  <img width="48" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="javascript-logo"/>
+  <img width="48" src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo.svg" alt="bootstrap-logo"/>
 </p>
                                                                                                   
-### Development Tools
+### Ferramentas de Desenvolvimento
 
 <p display="inline-block">
-  <img width="48" src="https://static.wikia.nocookie.net/logopedia/images/e/ec/Microsoft_Visual_Studio_2022.svg" alt="vs-logo"/>
-  <img width="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode-logo"/>
-  <img width="48" src="https://resources.jetbrains.com/storage/products/rider/img/meta/rider_logo_300x300.png" alt="rider-logo"/>
+  <img width="48" src="https://static-00.iconduck.com/assets.00/phpstorm-icon-2048x2048-rjjm74g9.png" alt="phpstorm-logo"/>
 </p>
 
 ## Running
